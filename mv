@@ -1,0 +1,2 @@
+Moves a file or a directory to a specified location.
+E.g. mv filename destination. Can be used to rename files and directories.
